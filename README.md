@@ -5,10 +5,10 @@
 
 <div>
   <a href="https://github.com/PedronSol/github-readme-stats">
-    <img height="400px" width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=PedronSol&show_icons=true&theme=merko&hide_title=true&rank_icon=github&include_all_commits=true" />
+    <img height="400px" width="300px" align="center" src="https://github-readme-stats.vercel.app/api?username=PedronSol&show_icons=true&theme=merko&hide_title=true&rank_icon=github&include_all_commits=true" />
   </a>
   <a href="https://github.com/PedronSol/github-readme-stats">
-    <img height="300px" width="500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedronSol&theme=merko&langs_count=8&layout=donut" />
+    <img height="300px" width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedronSol&theme=merko&langs_count=8&layout=donut" />
   </a>
 </div>
 
