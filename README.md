@@ -32,6 +32,7 @@ Busco aplicar conceitos de computação inteligente, otimização matemática e 
 
 - **Sistemas de Alocação Inteligente (ALTA):** Algoritmo desenvolvido utilizando Algoritmos Genéticos e Lógica Fuzzy para mitigar o problema de alocação de leitos hospitalares (Bed Allocation Problem).
 - **Automação de Fluxos de Dados:** Implementação de fluxos de integração e estruturação de formulários de remoção médica utilizando n8n e APIs de comunicação.
+- **Documento Unificado de Saúde (DUS)**: Plataforma de organização e centralização inteligente de documentos e dados de saúde a fim de combater a descentralização de dados de saúde no Brasil.
 
 ## Contato
 - **LinkedIn:** https://www.linkedin.com/in/pedro-nelson-n%C3%B3brega-monteiro-leite-fonseca-61043a288/
